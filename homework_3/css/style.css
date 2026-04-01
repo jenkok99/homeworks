@@ -1,0 +1,57 @@
+*{
+	color: red;
+}
+h2 {
+	color: blueviolet;
+}
+
+.header {
+}
+.header-title {
+	color: burlywood;
+}
+.menu {
+}
+.menu-item {
+}
+.menu-link, h3 {
+	color: blue;
+}
+.page-title {
+}
+.page-subtitle {
+	color: green;
+}
+.page-nature {
+}
+.nature-title {
+}
+.facts-list {
+}
+.facts-item {
+	color: gray;
+}
+.foto-nature {
+}
+.page-history {
+}
+.history-title {
+}
+.page-modern {
+}
+.modern-title {
+}
+.footer {
+}
+.footer-text + span {
+	color: darkorchid;
+}
+.facts-item > span {
+	color: aqua;
+}
+.facts-item ~ p {
+	color: darkgreen;
+} 
+#dream {
+	color: purple;
+}
